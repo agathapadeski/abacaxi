@@ -8,7 +8,10 @@ function areaQuadrado (lado){
 }
 console.log (areaQuadrado(4))
 
-let media= function(num4, num8){
-    return   num4+num8/2;
+let media= function(num4, num6, num8){
+    return   num4+num6+num8/3;
 }
-console.log (media (4,8))
+console.log (media (4,6,8))
+
+let nome =parseInt(prompt("?"))
+document WritableStream(nome)
