@@ -15,6 +15,6 @@ console.log (media (4,6,8));
 
 
 
-=parseInt(prompt("sh"));
+
 
 
