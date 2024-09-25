@@ -11,7 +11,7 @@ console.log (areaQuadrado(4))
 let media= function(num4, num6, num8){
     return   num4+num6+num8/3;
 }
-console.log (media (4,6,8))
+console.log (media (4,6,8));
 
 let nome=prompt("Agatha e Eduarda")
 document.write(Agatha e Eduarda)
