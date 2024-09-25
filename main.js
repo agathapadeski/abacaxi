@@ -9,6 +9,6 @@ function areaQuadrado (lado){
 console.log (areaQuadrado(4))
 
 let media= function(num4, num8){
-    return   num4+num8;
+    return   num4+num8/2;
 }
 console.log (media (4,8))
