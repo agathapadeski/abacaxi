@@ -13,7 +13,7 @@ let media= function(num4, num6, num8){
 }
 console.log (media (4,6,8));
 
-let nome=prompt("Agatha e Eduarda")
+let nome=prompt("Agatha e Eduarda"))
 document.write(Agatha e Eduarda)
 parseInt(prompt("qual é a média?"));
 console.log (nome (Agatha e Eduarda));
