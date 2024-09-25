@@ -14,4 +14,4 @@ let media= function(num4, num6, num8){
 console.log (media (4,6,8))
 
 let nome =parseInt(prompt("?"))
-document Write (nome)
+document.write (Waldorf?)
